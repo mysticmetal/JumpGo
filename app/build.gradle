@@ -5,7 +5,7 @@ android {
     compileSdkVersion 24
     buildToolsVersion "23.0.3"
     defaultConfig {
-        minSdkVersion 14
+        minSdkVersion 15
         targetSdkVersion 24
         versionName "4.3.053"
     }
@@ -78,4 +78,7 @@ dependencies {
 
     //New Downloader
     compile 'org.wlf:FileDownloader:0.3.2'
+
+    //CycleMenu
+    compile 'com.cleveroad:cycle-menu:1.0.1'
 }

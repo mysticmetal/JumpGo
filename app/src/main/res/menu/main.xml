@@ -20,6 +20,7 @@
 
     <item
         android:id="@+id/action_new_tab"
+        android:icon="@drawable/ic_action_plus"
         android:title="@string/action_new_tab"/>
     <item
         android:id="@+id/action_incognito"
